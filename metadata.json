@@ -1,0 +1,8 @@
+{
+  "name": "Shivam Meridian MedAI",
+  "description": "Modular multi-domain Clinical Precision AI platform uniting Radiology Imaging, Pathology Biomarkers, ICU Vitals Telemetry, and an Integrated Diagnostic Workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
